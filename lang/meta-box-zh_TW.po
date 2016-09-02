@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Meta Box v4.8.7\n"
-"POT-Creation-Date: 2016-06-03 16:24+0800\n"
+"POT-Creation-Date: 2016-09-02 17:15+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: OOME <1049879335@qq.com>\n"
-"Language-Team: 偶米工作室 <1049879335@qq.com>\n"
+"Last-Translator: StartPress <support@startpress.cc>\n"
+"Language-Team: StartPress 工作室團隊 <support@startpress.cc>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 #: ../inc/core.php:40
 msgid "Documentation"
-msgstr "文檔"
+msgstr "說明文件"
 
 #: ../inc/core.php:41
 msgid "Extensions"
-msgstr "擴展"
+msgstr "擴充功能"
 
 #: ../inc/field.php:192
 msgid "+ Add more"
@@ -37,7 +37,7 @@ msgstr "刪除"
 
 #: ../inc/fields/button.php:29
 msgid "Click me"
-msgstr "點我"
+msgstr "點擊此處"
 
 #: ../inc/fields/checkbox.php:82
 msgid "Yes"
@@ -49,7 +49,7 @@ msgstr "否"
 
 #: ../inc/fields/file-input.php:25
 msgid "Select File"
-msgstr "選擇檔"
+msgstr "選擇檔案"
 
 #: ../inc/fields/file-input.php:49 ../inc/fields/select.php:91
 msgid "Select"
@@ -62,26 +62,26 @@ msgstr "移除"
 #: ../inc/fields/file.php:24
 #, php-format
 msgid "You may only upload maximum %d file"
-msgstr "您允許上傳的檔上限為 %d 個。"
+msgstr "您允許上傳的檔案數量上限為 %d 個。"
 
 #: ../inc/fields/file.php:25
 #, php-format
 msgid "You may only upload maximum %d files"
-msgstr "您允許上傳的檔上限為 %d 個。"
+msgstr "您允許上傳的檔案數量上限為 %d 個。"
 
 #: ../inc/fields/file.php:85
 msgid "Error: Cannot delete file"
-msgstr "錯誤：無法刪除檔。"
+msgstr "錯誤：無法刪除檔案。"
 
 #: ../inc/fields/file.php:98
 msgctxt "file upload"
 msgid "Upload Files"
-msgstr "上傳文件"
+msgstr "上傳檔案"
 
 #: ../inc/fields/file.php:99
 msgctxt "file upload"
 msgid "+ Add new file"
-msgstr "+ 新增文件"
+msgstr "+ 新增檔案"
 
 #: ../inc/fields/file.php:162
 msgctxt "file upload"
@@ -105,12 +105,12 @@ msgstr "從媒體庫選擇"
 #: ../inc/fields/media.php:26
 msgctxt "media"
 msgid " file"
-msgstr "文件"
+msgstr "檔案"
 
 #: ../inc/fields/media.php:27
 msgctxt "media"
 msgid " files"
-msgstr "文件"
+msgstr "檔案"
 
 #: ../inc/fields/media.php:28
 msgctxt "media"
@@ -135,7 +135,7 @@ msgstr "無標題"
 #: ../inc/fields/media.php:34
 msgctxt "media"
 msgid "Select Files"
-msgstr "選擇圖像"
+msgstr "選擇圖片"
 
 #: ../inc/fields/media.php:35
 msgctxt "media"
@@ -145,12 +145,12 @@ msgstr " 或"
 #: ../inc/fields/media.php:36
 msgctxt "media"
 msgid "Drop files here to upload"
-msgstr "請把檔拖動到該區域上傳"
+msgstr "請拖曳檔案到此處上傳"
 
 #: ../inc/fields/oembed.php:65
 msgid "Embed HTML not available."
 msgstr ""
-"oEmbed 代碼無效，請檢查。 如需瞭解更多 oEmbed 資訊和支援的網站，請訪問 <a "
+"oEmbed 程式碼無效，請檢查。 如需瞭解更多 oEmbed 資訊和支援，請訪問 <a "
 "href=\"http://codex.wordpress.org/Embeds\" target=\"_blank\">WordPress 官網</"
 "a>。"
 
@@ -161,7 +161,7 @@ msgstr "選擇文章"
 #: ../inc/fields/post.php:38 ../inc/fields/taxonomy.php:51
 #, php-format
 msgid "Select a %s"
-msgstr "選擇%s"
+msgstr "選擇 %s"
 
 #: ../inc/fields/select-advanced.php:44
 msgid "Select an item"
@@ -182,8 +182,8 @@ msgstr "選擇分類"
 #: ../inc/fields/thickbox-image.php:53
 msgctxt "image upload"
 msgid "Upload Images"
-msgstr "上傳圖像"
+msgstr "上傳圖片"
 
 #: ../inc/fields/user.php:34
 msgid "Select an user"
-msgstr "選擇用戶"
+msgstr "選擇使用者"
